@@ -1,2 +1,6 @@
 note.txt
 we just published our ocal git repo to remote GitHub.com repositery
+
+Now our work will continue locally
+
+1- add a new file called note.txt
