@@ -1,0 +1,2 @@
+note.txt
+we just published our ocal git repo to remote GitHub.com repositery
